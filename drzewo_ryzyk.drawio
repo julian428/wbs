@@ -166,6 +166,45 @@
         <mxCell id="KFxyEe2gycVbwGieMdKW-12" value="Negatywny odbiór systemu przez użytkowników" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="980" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-14" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-16" value="Wysokie ryzyko" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="465" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-17" value="Średnie ryzyko" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="565" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-18" value="Niskie ryzyko" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="665" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="480" as="sourcePoint" />
+            <mxPoint x="670" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="580" as="sourcePoint" />
+            <mxPoint x="670" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="680" as="sourcePoint" />
+            <mxPoint x="670" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KFxyEe2gycVbwGieMdKW-25" value="Legenda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="330" height="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
