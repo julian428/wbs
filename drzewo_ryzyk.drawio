@@ -67,10 +67,10 @@
             <mxPoint x="580" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODh3qWqFjgYjW_nZ7udq-14" value="Wysokie koszty utrzymania" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ODh3qWqFjgYjW_nZ7udq-14" value="Wysokie koszty utrzymania" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODh3qWqFjgYjW_nZ7udq-15" value="Naruszenie prywatności danych" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ODh3qWqFjgYjW_nZ7udq-15" value="Naruszenie prywatności danych" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ODh3qWqFjgYjW_nZ7udq-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ODh3qWqFjgYjW_nZ7udq-6" edge="1" target="ODh3qWqFjgYjW_nZ7udq-20">
@@ -85,10 +85,10 @@
             <mxPoint x="260" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODh3qWqFjgYjW_nZ7udq-19" value="Przerwy w dostępie internetu" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ODh3qWqFjgYjW_nZ7udq-19" value="Przerwy w dostępie internetu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODh3qWqFjgYjW_nZ7udq-20" value="Opóźnienia w dostawach" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ODh3qWqFjgYjW_nZ7udq-20" value="Opóźnienia w dostawach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ODh3qWqFjgYjW_nZ7udq-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ODh3qWqFjgYjW_nZ7udq-3" edge="1">
@@ -97,10 +97,10 @@
             <mxPoint x="90" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ODh3qWqFjgYjW_nZ7udq-22" value="Problemy z integracją urządzeń" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ODh3qWqFjgYjW_nZ7udq-22" value="Problemy z integracją urządzeń" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ODh3qWqFjgYjW_nZ7udq-23" value="Błędy w danych pogodowych" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ODh3qWqFjgYjW_nZ7udq-23" value="Błędy w danych pogodowych" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ODh3qWqFjgYjW_nZ7udq-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ODh3qWqFjgYjW_nZ7udq-22" edge="1">
@@ -124,7 +124,7 @@
         <mxCell id="KFxyEe2gycVbwGieMdKW-3" value="Użytkowe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KFxyEe2gycVbwGieMdKW-4" value="Brak kompatybilności użądzeń domowych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KFxyEe2gycVbwGieMdKW-4" value="Brak kompatybilności użądzeń domowych" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="120" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KFxyEe2gycVbwGieMdKW-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KFxyEe2gycVbwGieMdKW-4">
@@ -139,7 +139,7 @@
             <mxPoint x="300" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFxyEe2gycVbwGieMdKW-7" value="Niedostępność zewnętrznych baz danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KFxyEe2gycVbwGieMdKW-7" value="Niedostępność zewnętrznych baz danych" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KFxyEe2gycVbwGieMdKW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KFxyEe2gycVbwGieMdKW-3">
@@ -148,7 +148,7 @@
             <mxPoint x="900" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFxyEe2gycVbwGieMdKW-9" value="Nie odpowiedzialne działanie funkcji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KFxyEe2gycVbwGieMdKW-9" value="Nie odpowiedzialne działanie funkcji" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KFxyEe2gycVbwGieMdKW-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KFxyEe2gycVbwGieMdKW-12">
@@ -163,7 +163,7 @@
             <mxPoint x="1040" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFxyEe2gycVbwGieMdKW-12" value="Negatywny odbiór systemu przez użytkowników" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KFxyEe2gycVbwGieMdKW-12" value="Negatywny odbiór systemu przez użytkowników" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="980" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
